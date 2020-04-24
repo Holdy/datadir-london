@@ -1,4 +1,0 @@
-waterloo_and_city_(london_underground_line)
-bakerloo_(london_underground_line)
-northern_(london_underground_line)
-jubilee_(london_underground_line)

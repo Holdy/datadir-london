@@ -1,2 +1,0 @@
-bank_(london_underground_station)
-waterloo_(london_underground_station)
